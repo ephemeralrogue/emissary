@@ -12,5 +12,8 @@
         "type": "git",
         "url": "http://github.com/nonsensetwice/oauth2.git"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "publishConfig": {
+      "registry":"https://npm.pkg.github.com/"
+    }
 }
