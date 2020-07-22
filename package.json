@@ -1,13 +1,13 @@
 {
     "name": "@nonsensetwice/oauth2",
     "description": "Simple OAuth2 interaction library.  Provides simplified client access and allows for construction of more complex apis and OAuth providers.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "directories": {
         "lib": "./lib"
     },
     "main": "index.js",
     "type": "module",
-    "author": "Ciaran Jessup <ciaranj@gmail.com>",
+    "author": "Joshua Alexander Castaneda <dev@nonsensetwice.co>",
     "repository": {
         "type": "git",
         "url": "http://github.com/nonsensetwice/oauth2.git"
