@@ -30,7 +30,7 @@ oauth.buildOAuth2({
 oauth.getOAuthAccessToken(code, callback);
 ```
 
-Copyright (C) <2020>  <Joshua Alexander Castaneda>
+Copyright (C) <2020>  Joshua Alexander Castaneda
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -47,7 +47,7 @@ Copyright (C) <2020>  <Joshua Alexander Castaneda>
     
 
 The MIT License (MIT)
-Copyright (c) <2010-2012> <Ciaran Jessup>
+Copyright (c) <2010-2012> Ciaran Jessup
     
     Please see original source code and documentation for all software
     covered under this license.
