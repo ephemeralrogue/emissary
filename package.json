@@ -1,7 +1,7 @@
 {
-    "name": "@nonsensetwice/oauth2",
+    "name": "oauth2",
     "description": "Simple OAuth2 interaction library.  Provides simplified client access and allows for construction of more complex apis and OAuth providers.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "directories": {
         "lib": "./lib"
     },
