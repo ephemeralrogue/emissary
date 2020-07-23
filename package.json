@@ -1,7 +1,7 @@
 {
-    "name": "oauth2",
+    "name": "malevolence",
     "description": "Simple OAuth2 interaction library.  Provides simplified client access and allows for construction of more complex apis and OAuth providers.",
-    "version": "1.0.3",
+    "version": "1.0.0",
     "directories": {
         "lib": "./lib"
     },
@@ -10,7 +10,7 @@
     "author": "Joshua Alexander Castaneda <dev@nonsensetwice.co>",
     "repository": {
         "type": "git",
-        "url": "http://github.com/nonsensetwice/oauth2.git"
+        "url": "http://github.com/nonsensetwice/malevolence.git"
     },
     "license": "GPL-3.0-or-later"
 }
