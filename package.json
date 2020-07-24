@@ -1,7 +1,7 @@
 {
-    "name": "malevolence",
-    "description": "Simple OAuth2 interaction library.  Provides simplified client access and allows for construction of more complex apis and OAuth providers.",
-    "version": "1.0.0",
+    "name": "Emissary",
+    "description": "Simple OAuth2 interaction library, utilizing ES6 modules and JavaScript object delegation.  Provides simplified client access and allows for construction of more complex apis and OAuth2 providers.",
+    "version": "0.1.0",
     "directories": {
         "lib": "./lib"
     },
@@ -10,7 +10,7 @@
     "author": "Joshua Alexander Castaneda <dev@nonsensetwice.co>",
     "repository": {
         "type": "git",
-        "url": "http://github.com/nonsensetwice/malevolence.git"
+        "url": "http://github.com/nonsensetwice/Emissary.git"
     },
     "license": "GPL-3.0-or-later"
 }

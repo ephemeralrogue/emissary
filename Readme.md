@@ -1,13 +1,13 @@
-malevolence
+Emissary
 ===========
-A super simple oauth2 API for node.js, set up as an ES Module with object delegation. This API allows users to authenticate against OAUTH2 providers, and thus act as OAuth2 consumers.
+A super simple oauth2 API for node.js, set up as an ES Module with object delegation. Emissary negotiates the exchange of an authorization code for an access token. This API allows users to authenticate against OAUTH2 providers, and thus act as OAuth2 consumers.
 
 This was modified from the node-auth library at https://github.com/ciaranj/node-oauth.
 
 Installation
 ============== 
 
-    $ npm install malevolence
+    $ npm install Emissary
 
 
 Example Usage
@@ -15,9 +15,9 @@ Example Usage
 
 ## OAuth2.0 
 ```javascript
-import { OAuth2 } from 'malevolence';
+import { Emissary } from 'Emissary';
 
-let oauth = Object.create(OAuth2);
+let oauth = Object.create(Emissary);
 
 oauth.buildOAuth2({
   clientID: 'your client id',
