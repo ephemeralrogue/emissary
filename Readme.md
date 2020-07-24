@@ -15,7 +15,7 @@ Example Usage
 
 ## OAuth2.0 
 ```javascript
-import { emissary } from 'emissary';
+import { emissary } from '@nonsensecodes/emissary';
 
 let oauth = Object.create(emissary);
 
