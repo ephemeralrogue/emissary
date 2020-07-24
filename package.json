@@ -1,6 +1,6 @@
 {
   "name": "@nonsensecodes/emissary",
-  "description": "Simple OAuth2 interaction library, utilizing ES6 modules and JavaScript object delegation.  Provides simplified client access and allows for construction of more complex apis and OAuth2 providers.",
+  "description": "Simple OAuth2 interaction library, utilizing ES6 modules and JavaScript object delegation.  Emissary negotiates the exchange of an authentication code for an access token. Provides simplified client access and allows for construction of more complex apis and OAuth2 providers.",
   "version": "0.1.0",
   "directories": {
     "lib": "lib"
@@ -10,13 +10,13 @@
   "author": "Joshua Alexander Castaneda <dev@nonsensetwice.co>",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/nonsensetwice/Emissary.git"
+    "url": "git+ssh://git@github.com/nonsensecode/emissary.git"
   },
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/nonsensetwice/Emissary/issues"
+    "url": "https://github.com/nonsensecodes/emissary/issues"
   },
-  "homepage": "https://github.com/nonsensetwice/Emissary#readme",
+  "homepage": "https://github.com/nonsensecodes/emissary#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
