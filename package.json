@@ -1,7 +1,7 @@
 {
   "name": "@nonsensecodes/emissary",
   "description": "Simple OAuth2 interaction library, utilizing ES6 modules and JavaScript object delegation.  Emissary negotiates the exchange of an authentication code for an access token. Provides simplified client access and allows for construction of more complex apis and OAuth2 providers.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "directories": {
     "lib": "lib"
   },
