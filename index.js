@@ -1,3 +1,3 @@
-import { OAuth2 as emissary } from './lib/oauth2.js';
+import emissary from './lib/emissary.js';
 
 export default emissary;
