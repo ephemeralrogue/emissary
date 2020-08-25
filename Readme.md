@@ -1,6 +1,8 @@
 emissary
 =========
-A super simple oauth2 API for node.js, set up as an ES Module with object delegation. Emissary negotiates the exchange of an authorization code for an access token. This API allows users to authenticate against OAUTH2 providers, and thus act as OAuth2 consumers.
+Simple OAuth & OAuth2 interaction library, utilizing ES6 modules and JavaScript object delegation.  Emissary negotiates the exchange of an authentication code for an access token. Provides simplified client access and allows for construction of more complex apis and OAuth/OAuth2 providers.
+
+Note: OAuth & OAuth 1.0a is still in development.
 
 This was modified from the node-auth library at https://github.com/ciaranj/node-oauth.
 
